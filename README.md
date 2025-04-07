@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/03cc4a13-e135-45ea-bfac-377f73210862" />
 
-<h3 align="center">"사용자의 요구를 정확히 반영하고, <br/> 성실함과 책임감으로 
+<h3 align="center">"사용자의 요구를 정확히 반영하고, 성실함과 책임감으로 
 빠르게 성장하는 <br/> 프론트엔드 개발자, 이수현입니다."</h3>
 <br/>
 
