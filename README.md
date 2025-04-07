@@ -80,14 +80,5 @@
   
 </div>
 
-<div align=center>
 
-### Contact Me
-
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:o52o.suhyun@gmail.com)](mailto:o52o.suhyun@gmail.com)
-
-
-
-</div>
 
