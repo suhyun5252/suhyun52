@@ -1,12 +1,12 @@
-<img src="https://github.com/user-attachments/assets/52fa99de-d1e3-43a6-b317-410996fa8040" />
+<img src="https://github.com/user-attachments/assets/03cc4a13-e135-45ea-bfac-377f73210862" />
 
+<h3 align="center">"사용자의 요구를 정확히 반영하고, <br/> 성실함과 책임감으로 
+빠르게 성장하는 <br/> 프론트엔드 개발자, 이수현입니다."</h3>
+<br/>
 
+<h3 align="center">Tech Stack</h1>
 
-
-
-<h3 align="left">Tech Stack</h1>
-
-<table align="left">
+<table align="center">
   <tr>
      <td align="center" width="120" height = "120">
       <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="Html" />
@@ -76,7 +76,18 @@
 </table>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suhyun5252&locale=en&hide_title=false&layout=compact&card_width=380&langs_count=5&theme=dracula&hide_border=false" height="220" alt="languages graph" style="vertical-align: middle;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suhyun5252&locale=en&hide_title=false&layout=compact&card_width=380&langs_count=5&theme=dracula&hide_border=false" height="210" alt="languages graph" style="vertical-align: middle;" />
   
+</div>
+
+<div align=center>
+
+### Contact Me
+
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:o52o.suhyun@gmail.com)](mailto:o52o.suhyun@gmail.com)
+
+
+
 </div>
 
